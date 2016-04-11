@@ -4,7 +4,7 @@ The Denver Post's public datasets.
 Article | Folder
 --------|-------------
 [Denver Homicides, 2015](http://extras.denverpost.com/homicides/2015/) | [homicide-report](homicide-report/)
-[Colorado Rockies Misery Index, 2015](http://www.denverpost.com/rockies/ci_28384514/rockies-misery-index) | `misery-index`
+[Colorado Rockies Misery Index, 2015](http://www.denverpost.com/rockies/ci_28384514/rockies-misery-index) | (misery-index/)
 
 # License
 Copyright © 2015-2016 The Denver Post
